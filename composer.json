@@ -1,0 +1,14 @@
+{
+  "name": "php-11/php-11",
+  "type": "project",
+  "description": "A New php Project",
+  "keywords": [],
+  "license": "",
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
